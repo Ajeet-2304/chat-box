@@ -1,0 +1,15 @@
+.chatCard{
+    background-color: #000;
+    border-radius: 20px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .chatCard{
+        width: 90vw !important;
+        margin: auto;
+    }
+    
+
+  }
